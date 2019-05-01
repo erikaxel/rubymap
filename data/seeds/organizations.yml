@@ -119,6 +119,16 @@
   url: https://www.dexem.com/en/
   locations:
     - address: 4 Avenue des Peupliers, Cesson-Sévigné, France
+- name: Ruby Meetup Oslo
+  type: meetup
+  url: https://www.meetup.com/Ruby-Meetup-Oslo/
+  locations:
+    - address: Oslo, Norway
+- name: Luca Labs
+  type: business
+  url: www.lucalabs.com
+  locations:
+    - address: Tordenskiolds gate 3, 0160 Oslo, Norway
 - name: Rubyside
   type: meetup
   url: https://www.meetup.com/Rubyside-Meetup/
@@ -160,8 +170,3 @@
   url: http://charlotteruby.org
   locations:
     - address: Charlotte, NC
-- name: Vanruby
-  type: meetup 
-  url: http://vanruby.org
-  locations:
-    - address: Vancouver, BC, Canada
