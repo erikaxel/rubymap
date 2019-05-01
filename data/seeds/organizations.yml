@@ -160,8 +160,13 @@
   url: http://charlotteruby.org
   locations:
     - address: Charlotte, NC
-- name: Vanruby
-  type: meetup 
-  url: http://vanruby.org
+- name: Ruby Meetup Oslo
+  type: meetup
+  url: https://www.meetup.com/Ruby-Meetup-Oslo/
   locations:
-    - address: Vancouver, BC, Canada
+    - address: Oslo, Norway
+- name: Luca Labs
+  type: business
+  url: www.lucalabs.com
+  locations:
+    - address: Tordenskiolds gate 3, 0160 Oslo, Norway
